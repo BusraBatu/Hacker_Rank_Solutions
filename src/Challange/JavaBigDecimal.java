@@ -1,3 +1,5 @@
+package Challange;
+
 import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.Collections;
