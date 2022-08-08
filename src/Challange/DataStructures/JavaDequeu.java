@@ -1,4 +1,4 @@
 package Challange.DataStructures;
 
-public class BitSet {
+public class JavaDequeu {
 }
