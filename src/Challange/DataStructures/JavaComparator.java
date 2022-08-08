@@ -23,7 +23,7 @@ class Player{
         this.score = score;
     }
 }
-public class JavaDataStructuresComparator {
+public class JavaComparator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();

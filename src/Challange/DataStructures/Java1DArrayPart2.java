@@ -2,7 +2,7 @@ package Challange.DataStructures;
 
 import java.util.Scanner;
 
-public class JavaDataStructures1DArrayPart2 {
+public class Java1DArrayPart2 {
     public static boolean canWin(int leap, int[] game) {
         // Return true if you can win the game; otherwise, return false.
         return isStatus(leap, game, 0);

@@ -2,7 +2,7 @@ package Challange.DataStructures;
 
 import java.util.Scanner;
 
-public class JavaDataStructures1DArray {
+public class Java1DArray {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

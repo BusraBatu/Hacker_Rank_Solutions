@@ -3,7 +3,7 @@ package Challange.DataStructures;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class JavaDataStructuresArrayList {
+public class JavaArrayList {
     public static void main(String[] args) {
         Scanner scan= new Scanner(System.in);
         int numberOfList=scan.nextInt();

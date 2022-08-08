@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 
-public class JavaDataStructuresMap {
+public class JavaMap {
 
         public static void main(String[] args) throws IOException {
 

@@ -3,7 +3,7 @@ package Challange.DataStructures;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class JavaDataStructuresPriorityQueue {
+public class JavaPriorityQueue {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
